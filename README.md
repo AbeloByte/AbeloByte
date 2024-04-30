@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abel Adane</h1>
 <h3 align="center">A passionate front-end developer from Ethiopia</h3>
 
-<a target="_blank" rel="noreferrer"> <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="python" width="100%" height="100%"/> </a>
+![image](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
 # 💫 About Me:
 - 🔭 I’m currently working on converting **Design** to code using **html** and **css** only
   ![image](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1689/raw_2F9dfdcda7-33c0-4717-9dae-b03b8dd07271_2Fconsistency.jpg)
