@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abel Adane</h1>
 <h3 align="center">I am a developer who likes developing something that make peoples life easier on the Web</h3>
 
-
 # 💫 About Me:
 - 🔭 I’m currently working on  React
-
   <br>- 🌱 I’m currently learning JavaScript and React<br><br>- 💬 Ask me later About Javascript<br><br>- ⚡ Fun fact I like Design
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
