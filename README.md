@@ -3,8 +3,8 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on converting **Design** to code using **html** and **css** only
-  ![image](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1689/raw_2F9dfdcda7-33c0-4717-9dae-b03b8dd07271_2Fconsistency.jpg)
+- 🔭 I’m currently working on converting React
+
   <br>- 🌱 I’m currently learning JavaScript and React<br><br>- 💬 Ask me later About Javascript<br><br>- ⚡ Fun fact I like Design
 
 
