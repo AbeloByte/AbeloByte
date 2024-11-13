@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abel Adane</h1>
-<h3 align="center">I am a developer who likes developing something that make peoples life easier on the Web</h3>
+<h1 align="center">Hey there! 👋 I'm Abel Adane!</h1>
+<h3 align="center">Welcome to my GitHub! I’m a **Computer Science & Engineering Student** and an enthusiastic **Web Developer** diving into the latest frameworks, building projects, and always looking for new ways to understand and improve the world through code. I love nothing more than a good conversation about tech or life's big (and small) questions. 💻🌍</h3>
 
-# 💫 About Me:
-- 🔭 I’m currently working on  React
-- 🌱 I’m currently learning JavaScript and React<br><br>- 💬 Ask me later About Javascript<br><br>- ⚡ Fun fact I like Design
+
+### 🧭 About Me
+- **🎓 I’m currently studying:** Computer Science & Engineering, while learning and working on side projects that bring my learning to life.
+- **🚀 Learning Goals:** Keeping up with the latest and greatest in frameworks and tools to build efficient, scalable web apps.
+- **💡 Fun Fact:** I love connecting with people over discussions about tech journeys, entrepreneurship, and innovative perspectives on life.
+
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
@@ -24,6 +28,9 @@
 
  
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+### 💬 Let’s Connect!
+I’m always up for a chat, whether it's about tech trends, code, or startup ideas! Feel free to reach out if you’d like to connect, brainstorm, or just talk tech.
 
 
 ## 🏆 GitHub Trophies
