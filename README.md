@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Abel Adane!</h1>
-Welcome to my GitHub! I’m a **Computer Science & Engineering** Student and an enthusiastic **Web Developer** diving into the latest frameworks, building projects, and always looking for new ways to understand and improve the world through code. I love nothing more than a good conversation about tech or life's big (and small) questions. 💻🌍
+Welcome to my corner of GitHub!! I’m a Computer Science & Engineering Student and a Web Developer diving into the latest frameworks, building projects, and always looking for new ways to understand and improve the world through code. I love nothing more than a good conversation about tech or life's big (and small) questions. 💻🌍
 
 
 ### 🧭 About Me
