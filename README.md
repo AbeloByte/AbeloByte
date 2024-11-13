@@ -32,7 +32,7 @@ I’ve learned the following tech stacks throughout my journey and have worked w
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 ### 💬 Let’s Connect!
-I’m always up for a chat, whether it's about tech trends, code, or startup ideas! Feel free to reach out if you’d like to connect, brainstorm, or just talk tech.
+I’m always up for a chat, whether it's about tech trends, code, or any positive thing that can build community! Feel free to reach out if you’d like to connect, brainstorm, or just talk.
 
 
 ## 🏆 GitHub Trophies
