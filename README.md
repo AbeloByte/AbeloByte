@@ -9,6 +9,7 @@ Welcome to my corner of GitHub!! I’m a Computer Science & Engineering Student 
 
 
 # 💻 Tech Stack:
+I’ve learned the following tech stacks throughout my journey and have worked with some of them in depth. Each tool has shaped my approach to building functional, scalable, and visually engaging web applications
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
