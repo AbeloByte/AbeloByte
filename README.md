@@ -3,7 +3,7 @@ Welcome to my corner of GitHub!! I’m a Computer Science & Engineering Student 
 
 
 ### 🧭 About Me
-- **🎓 I’m currently studying:** Computer Science & Engineering, while learning and working on side projects that bring my learning to life.
+- **🎓 I’m currently studying:** Computer Science & Engineering, while learning AWS and working on side projects that bring my knowledge and skills to life. Additionally, I'm gaining hands-on experience with cloud infrastructure and exploring AWS services to enhance my technical expertise.
 - **🚀 Learning Goals:** Keeping up with the latest and greatest in frameworks and tools to build efficient, scalable web apps plus in mainly learn Data Structure and Algorithm in deepth.
 - **💡 Fun Fact:** I love connecting with people over discussions about tech journeys, entrepreneurship,Community growth and innovative perspectives on life.
 
