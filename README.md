@@ -4,10 +4,9 @@
 </p>
 
 ### About Me:
-![Description of image](https://app.lottiefiles.com/animation/d1d4d169-1dd2-4ac7-b37e-b690f1db311d)
-
-I am a Web Developer and UI/UX Designer who balances technical implementation with visual strategy. When my GitHub contribution graph slows down, it usually means I’ve shifted focus to the design phase—mapping user flows, building design systems, and prototyping in Figma. I use these design periods to ensure that when I return to the code, I am building interfaces that are purposeful, accessible, and clean.
-
+<p align="start">
+I am a Web Developer and UI/UX Designer who balances technical implementation with visual strategy. When my GitHub contribution graph slows down, it usually means I’ve shifted focus to the design phase mapping user flows, building design systems, and prototyping in Figma. I use these design periods to ensure that when I return to the code, I am building interfaces that are purposeful, accessible, and clean.
+</p>
 
 ## Find Me on Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abel-adane-268938350) 
