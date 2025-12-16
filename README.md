@@ -1,9 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm Abel Adane!</h1>
-## Computer Science & Engineering student  | Full Stack Web Developer | CEO of Hebel Dreams 
+<p align="center">
+  <strong>Computer Science & Engineering Student | Full Stack Web Developer | CEO of Hebel Dreams</strong>
+</p>
 
-###  About Me:
+### About Me:
 ![Description of image](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
-
 
 I am a Web Developer and UI/UX Designer who balances technical implementation with visual strategy. When my GitHub contribution graph slows down, it usually means I’ve shifted focus to the design phase—mapping user flows, building design systems, and prototyping in Figma. I use these design periods to ensure that when I return to the code, I am building interfaces that are purposeful, accessible, and clean.
 
