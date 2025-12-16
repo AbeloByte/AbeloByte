@@ -1,16 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Abel Adane!</h1>
-Welcome to my corner of GitHub!! I’m a Computer Science & Engineering Student and a Web Developer diving into the latest frameworks, building projects, and always looking for new ways to understand and improve the world through code. I love nothing more than a good conversation about tech or life's big (and small) questions. 
+## Computer Science & Engineering student  | Full Stack Web Developer | CEO of Hebel Dreams 
 
-
-### About Me:
+###  About Me:
 ![Description of image](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
 
 
-I’m currently studying: Computer Science & Engineering, while learning AWS and working on side projects that bring my knowledge and skills to life. Additionally, I'm gaining hands-on experience with cloud infrastructure and exploring AWS services to enhance my technical expertise.<br> 
-
-**Learning Goals**: Keeping up with the latest and greatest in frameworks and tools to build efficient, scalable web apps plus in mainly learn Data Structure and Algorithm in deepth.<br>
-
-**Fun Fact**: I love connecting with people over discussions about tech journeys, entrepreneurship,Community growth and innovative perspectives on life.
+I am a Web Developer and UI/UX Designer who balances technical implementation with visual strategy. When my GitHub contribution graph slows down, it usually means I’ve shifted focus to the design phase—mapping user flows, building design systems, and prototyping in Figma. I use these design periods to ensure that when I return to the code, I am building interfaces that are purposeful, accessible, and clean.
 
 
 ## Find Me on Socials:
