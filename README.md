@@ -6,7 +6,7 @@
 
 ### About Me:
 <p align="start">
-I am a <strong>Web Developer</strong> and <strong>UI/UX Designer</strong> who balances technical implementation with visual strategy. When my GitHub contribution graph slows down, it usually means I’ve shifted focus to the design phase mapping user flows, building design systems, and prototyping in Figma. I use these design periods to ensure that when I return to the code, I am building interfaces that are purposeful, accessible, and clean.
+I am a <strong>Web Developer</strong> and <strong> Junior UI/UX Designer</strong> who balances technical implementation with visual strategy. When my GitHub contribution graph slows down, it usually means I’ve shifted focus to the design phase mapping user flows, building design systems, and prototyping in Figma. I use these design periods to ensure that when I return to the code, I am building interfaces that are purposeful, accessible, and clean.
 </p>
 
 ## Find Me on Socials:
