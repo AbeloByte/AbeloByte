@@ -32,7 +32,6 @@ I am a <strong>Web Developer</strong> and <strong> Junior UI/UX Designer</strong
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=AbeloByte&theme=dark&hide_border=false)<br/>
