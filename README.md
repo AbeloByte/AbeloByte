@@ -18,7 +18,7 @@ I am a <strong>Web Developer</strong> and <strong> Junior UI/UX Designer</strong
 ## Technologies I Work With:
 
 <div align="left">
-  <h3> <code>// Languages and Tools </code> </h3>
+  <h3> <code>Languages and Tools </code> </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,notion,markdown&perline=6&theme=dark" />
   </a>
