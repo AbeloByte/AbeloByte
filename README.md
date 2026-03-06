@@ -24,7 +24,7 @@ I am a <strong>Web Developer</strong> and <strong> Junior UI/UX Designer</strong
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,express,nodejs,nextjs&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,js,python,c++,ts,express,nodejs,nextjs&perline=6&theme=dark" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
